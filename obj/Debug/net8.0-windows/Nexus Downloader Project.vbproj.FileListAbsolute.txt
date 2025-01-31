@@ -1,0 +1,23 @@
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Nexus_Downloader_Project.DownloadManager.resources
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Nexus Downloader Project.vbproj.GenerateResource.cache
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Nexus Downloader Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Nexus Downloader Project.AssemblyInfoInputs.cache
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Nexus Downloader Project.AssemblyInfo.vb
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Nexus Downloader Project.vbproj.CoreCompileInputs.cache
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\Nexus Downloader Project.exe
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\Nexus Downloader Project.deps.json
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\Nexus Downloader Project.runtimeconfig.json
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\Nexus Downloader Project.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\Nexus Downloader Project.pdb
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Nexus Downloader Project.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\refint\Nexus Downloader Project.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Nexus Downloader Project.pdb
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Nexus Downloader Project.genruntimeconfig.cache
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\ref\Nexus Downloader Project.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\Downloader.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Nexus Downloader Project.vbproj.AssemblyReference.cache
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Nexus Do.E1060EA3.Up2Date
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Nexus_Downloader_Project.Resources.resources

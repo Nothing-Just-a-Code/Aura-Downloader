@@ -1,0 +1,43 @@
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\Aura.exe
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\Aura.deps.json
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\Aura.runtimeconfig.json
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\Aura.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\Aura.pdb
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\AngleSharp.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\Downloader.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\MimeKit.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\SoundCloudExplode.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\YoutubeExplode.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Aura Downloader.vbproj.AssemblyReference.cache
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\AuraDownloader.AuraResources.resources
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\AuraDownloader.DownloadManager.resources
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\AuraDownloader.SoundCloudEngine.resources
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\AuraDownloader.YoutubeEngine.resources
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\AuraDownloader.AddNewDownload.resources
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\AuraDownloader.FileDownloader.resources
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\AuraDownloader.NewVersion.resources
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\AuraDownloader.Settings.resources
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\AuraDownloader.VideoInfoFetcher.resources
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\AuraDownloader.Resources.resources
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Aura Downloader.vbproj.GenerateResource.cache
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Aura Downloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Aura Downloader.AssemblyInfoInputs.cache
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Aura Downloader.AssemblyInfo.vb
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Aura Downloader.vbproj.CoreCompileInputs.cache
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Aura Dow.2C0550F7.Up2Date
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Aura.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\refint\Aura.dll
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Aura.pdb
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\Aura Downloader.genruntimeconfig.cache
+C:\Users\Kabir\source\repos\Nexus Downloader Project\Nexus Downloader Project\obj\Debug\net8.0-windows\ref\Aura.dll
