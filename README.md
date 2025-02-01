@@ -1,3 +1,7 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/Nothing-Just-a-Code/Aura-Downloader?style=for-the-badge) ![GitHub all releases](https://img.shields.io/github/downloads/Nothing-Just-a-Code/Aura-Downloader/total?style=for-the-badge)
+
+
+
 # Aura Downloader
 
 **Aura Downloader** is a fast, open-source download manager. It utilizes a chunk-based downloading method to maximize speed and includes features such as bandwidth control, one-click downloads for YouTube videos and SoundCloud songs, and the ability to manually paste direct URLs for high-speed file downloads. Aura Downloader is designed to make file downloading as efficient and user-friendly as possible.
