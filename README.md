@@ -68,7 +68,7 @@ Contributions to **Aura Downloader** are welcome! Whether you want to add new fe
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Nothing-Just-a-Code/Aura-Downloader/blob/main/LICENSE) file for more information.
 
 ## Contact
 
