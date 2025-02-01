@@ -1,4 +1,5 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/Nothing-Just-a-Code/Aura-Downloader?style=for-the-badge) ![GitHub all releases](https://img.shields.io/github/downloads/Nothing-Just-a-Code/Aura-Downloader/total?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/Nothing-Just-a-Code/Aura-Downloader?style=for-the-badge) ![GitHub all releases](https://img.shields.io/github/downloads/Nothing-Just-a-Code/Aura-Downloader/total?style=for-the-badge) ![.NET 8](https://img.shields.io/badge/.NET-8.0-blueviolet?style=for-the-badge&logo=dotnet)
+
 
 
 
